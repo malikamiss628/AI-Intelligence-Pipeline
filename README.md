@@ -29,7 +29,7 @@ Web Scraping → Text Processing → Chunking → Embeddings → Vector Database
 ## Technology Stack
 
 | Component | Technology |
-|--- -|---|
+|---|---|
 | Language | Python |
 | LLM | Groq API |
 | Vector Database | ChromaDB |
@@ -221,7 +221,7 @@ At the time of the latest analysis:
 Entity type distribution:
 
 | Entity Type | Count |
-|-- -|---:|
+|---|---:|
 | Technology | 26 |
 | Concept | 25 |
 | Person | 1 |
